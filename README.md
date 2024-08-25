@@ -1,1 +1,0 @@
-# sign_language_to_text_and_speech
